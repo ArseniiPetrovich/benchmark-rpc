@@ -10,7 +10,7 @@ const filecoinRpcUrls = [
 
 const ethereumRpcUrls = [
   "https://rpc.ankr.com/eth",
-  "https://api.node.glif.io/rpc/v1"
+  "https://api.node.glif.io/rpc/v1",
   "https://1rpc.io/eth",
   "https://public.stackup.sh/api/v1/node/ethereum-mainnet",
   "https://ethereum.blockpi.network/v1/rpc/public",
